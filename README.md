@@ -1,2 +1,14 @@
-# HackerRank-solutions
-My personal solutions to various HackerRank coding challenges, organized by difficulty and domain
+
+# HackerRank Solutions
+
+This repository contains my solutions to HackerRank problems.
+
+## Topics Covered
+- Python
+
+
+## Goal
+To improve problem-solving skills and track my coding journey consistently.
+
+## Platform
+HackerRank
