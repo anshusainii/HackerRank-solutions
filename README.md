@@ -5,6 +5,7 @@ This repository contains my solutions to HackerRank problems.
 
 ## Topics Covered
 - Python
+- Sql
 
 
 ## Goal
