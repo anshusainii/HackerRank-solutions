@@ -1,1 +1,5 @@
-d4kjdnir
+-- problem link - https://www.hackerrank.com/challenges/weather-observation-station-7/problem
+
+SELECT DISTINCT CITY
+FROM STATION
+WHERE LOWER(RIGHT(CITY, 1)) IN ('a', 'e', 'i', 'o', 'u');
